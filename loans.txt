@@ -1,0 +1,9 @@
+Type: Borrow
+Id: 1001
+Name: Usman
+Amount: 100.000000
+Currency: $
+Date: Ocotober 20
+Due Date: December 20
+Status: Paid
+
